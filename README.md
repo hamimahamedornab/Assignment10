@@ -1,16 +1,12 @@
-# untitled3
+# Assignment 10
 
-A new Flutter project.
+Create the following screen which rearranges its widgets while changing orientation.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Use any image or icon as placeholders.
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/hamimahamedornab/Assignment10/assets/75578573/e53513ec-5079-4efa-923c-e965de0f97eb)
+![1](https://github.com/hamimahamedornab/Assignment10/assets/75578573/d59adff4-572a-4fee-95e6-321ecbc63e5e)
